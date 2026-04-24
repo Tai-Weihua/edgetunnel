@@ -5,7 +5,7 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "edgetunnel"		#KV数据库id
+id = "38b34b37260749ff81f7cb1e77c119bc"		#KV数据库id
 
 [observability]
 enabled = false
