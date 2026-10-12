@@ -8,7 +8,7 @@ binding = "KV"			#KV绑定名默认不可修改
 id = "38b34b37260749ff81f7cb1e77c119bc"		#KV数据库id
 
 [observability]
-enabled = false
+enabled = true
 head_sampling_rate = 1
 
 [observability.logs]
